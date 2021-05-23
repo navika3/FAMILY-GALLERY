@@ -1,0 +1,18 @@
+body{
+    background: rgb(220,237,21);
+background: radial-gradient(circle, rgba(220,237,21,1) 0%, rgba(21,210,223,1) 100%);
+}
+H1{
+    font-size: 35PX;
+    font-family: cursive;
+    
+}
+IMG{
+    width: 400px;
+    border: 10PX ridge;
+    margin:30px;
+}
+P{
+    font-size: 20PX;
+    font-family: cursive;
+}
